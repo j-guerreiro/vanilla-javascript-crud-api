@@ -1,0 +1,37 @@
+[
+  {
+    "id": "58c841d6-92f2-4b79-a9a9-aa0a8b732e7f",
+    "title": "The Lost City",
+    "year": "2023",
+    "genre": "Adventure",
+    "rating": "7.8"
+  },
+  {
+    "id": "3b92f0d5-234d-49b0-8640-7a1a0c0f4c9f",
+    "title": "Echoes of Tomorrow",
+    "year": "2022",
+    "genre": "Science Fiction",
+    "rating": "6.5"
+  },
+  {
+    "id": "faefb2c2-0a0f-4e50-85d5-c52cb91bf2dc",
+    "title": "Midnight Serenade",
+    "year": "2024",
+    "genre": "Romance",
+    "rating": "8.2"
+  },
+  {
+    "id": "e4af8b3e-19ab-478f-93c7-2b7f4a057b2d",
+    "title": "The Darkened Path",
+    "year": "2021",
+    "genre": "Thriller",
+    "rating": "7.0"
+  },
+  {
+    "title": "AbraKadabra",
+    "year": "2024",
+    "genre": "Horror",
+    "rating": "6.0",
+    "id": "7141add8-0e20-4352-b186-61dc8a3e06f4"
+  }
+]
